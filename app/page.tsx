@@ -10,7 +10,7 @@ export default function Home() {
     <main className="min-h-screen bg-slate-900 text-white">
 
       {/* 1. Content Wrapper: 'flex-grow' pushes the footer to the bottom of the page */}
-      <div className="flex-grow p-8">
+      <div className="flex-grow p-12">
 
       {/* --- Hero Section --- */}
       <section className="flex flex-col items-center justify-center py-32 text-center">
