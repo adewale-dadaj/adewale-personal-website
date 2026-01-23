@@ -3,7 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --brand-color: #020617;
+  --brand-color: #334155;
 }
 
 @theme inline {
@@ -15,7 +15,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: ##020617;
+    --background: #334155;
     --foreground: #ededed;
   }
 }
