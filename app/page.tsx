@@ -4,7 +4,7 @@ export default function Home() {
 
   const projects = [
     {title: "Habit Tracker App", description: "Simple Habit Tracker with Github-style visualization.", tech: ["Swift", "Django"]},
-    {title: "(TBD) API", description: "Backend logic.", tech: ["Django"]},
+    {title: "Book Database", description: "Backend logic.", tech: ["Django"]},
   ];
   return (
     <main className="min-h-screen bg-slate-900 text-white">
