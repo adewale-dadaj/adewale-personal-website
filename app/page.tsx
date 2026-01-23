@@ -30,7 +30,7 @@ export default function Home() {
       </section>
 
       {/* --- Project Grid --- */}
-      <section className="max-w-6xl mx=auto py-20">
+      <section className="mx=auto py-20">
         <h2 className="text-3xl font-bold mb-12 border-b border-slate-700 pb-4">Feautred Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {projects.map((project, index) => (
